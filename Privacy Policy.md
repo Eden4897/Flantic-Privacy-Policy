@@ -1,5 +1,5 @@
-## **XE-ONE's Privacy Policy**
-### By using XE-ONE you accept with its privacy policy.
+## **Flantic's Privacy Policy**
+### By using Flantic you accept with its privacy policy.
 
 ## 1. What does it store?
 
