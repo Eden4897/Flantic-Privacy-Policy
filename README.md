@@ -1,1 +1,1 @@
-# XE-ONE-Privacy-Policy
+# Flantic-Privacy-Policy
