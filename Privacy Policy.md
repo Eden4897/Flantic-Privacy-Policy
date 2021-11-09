@@ -39,8 +39,12 @@
 
 #### You can reach us by the following things:
 - Join our [Support Server](https://discord.gg/2JrxEPtszD) on discord
-- Contact me on discord [OWNER](https://discord.gg/2JrxEPtszD)
+- Contact me on discord [discord.gg/flantic](https://discord.gg/2JrxEPtszD)
+
+## 6. How can we delete our entire data?
+
+### Simply join our support server and ask any of the bot moderator to delete your entire data, They will delete your entrie data without asking any question.
 
 
 ## Please note, that we can change this policy without any warning at any given time.
-#### **Last changed:**  `2020 August 29th`
+#### **Last changed:**  `2021 November 9th`
